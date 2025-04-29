@@ -4,7 +4,7 @@
 ชื่อแอป (App Name):MemoKeeper
 Framework ที่ใช้ (Framework Used): Expo / React Native 
 ลิงก์ GitHub Repository: (https://github.com/6631503044/Memokepper)
-ลิงก์ไฟล์ติดตั้ง (APK/IPA): (https://expo.dev/accounts/bigbigsathu/projects/Memokepper/builds/df40dcd6-49f2-4abc-99e8-fe1b164fbde5)
+ลิงก์ไฟล์ติดตั้ง (APK/IPA): (https://expo.dev/accounts/bigbigsathu/projects/Memokepper/builds/1630b298-1d16-4597-aa0d-91050b6e5eec))
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
 1.1 ผู้ใช้งานเป้าหมาย | User Personas
