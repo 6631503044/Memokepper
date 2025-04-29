@@ -82,19 +82,19 @@ Checklist:
 5. การใช้ AI ช่วยพัฒนา | AI Assisted Development (Bonus / ใช้ประกอบการพิจารณา)
 5.1 ใช้ AI ช่วยคิดไอเดีย | Idea Generation
 Prompt ที่ใช้:  
-"Suggest mobile app ideas for students to manage classes and reminders."
+-
 
 ผลลัพธ์:  
 ได้ไอเดียแอปจัดตารางเรียนและระบบเตือนอัตโนมัติ
 5.2 ใช้ AI ช่วยออกแบบ UI | UI Layout Prompt
 Prompt ที่ใช้:  
-"Design a simple layout for a schedule and reminder app in Flutter."
+"Create a nostalgic "MemoryKeeper" mobile app using React Native with Expo framework for Android. The app should have a vintage/old-fashioned aesthetic that feels like a traditional photo album or scrapbook.."
 
 ผลลัพธ์:  
 ได้ code structure ของ Scaffold 3 หน้า
 5.3 ใช้ AI ช่วยเขียนโค้ด | Code Writing Prompt
 Prompt ที่ใช้:  
-Create a nostalgic "MemoryKeeper" mobile app using React Native with Expo framework for Android. The app should have a vintage/old-fashioned aesthetic that feels like a traditional photo album or scrapbook.
+-
 
 Core Requirements:
 1. User Authentication:
